@@ -230,6 +230,19 @@
 				"type": "function"
 			},
 			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_etherAmount",
+						"type": "uint256"
+					}
+				],
+				"name": "burnToken",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
 				"inputs": [],
 				"name": "decimals",
 				"outputs": [
@@ -493,11 +506,11 @@
 			]
 		},
 		"MintToken.sol": {
-			"keccak256": "0x548968f813cbae0d2360c045b6f228ed1de82cf5160c39ca6d7ae3fcd5de7348",
+			"keccak256": "0x2794acf5c79a0d99cc5713ada49affc158d493ef1a748292f0e000999ff45160",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://47252a27dd02daac4009153de89d0ec7c9ae718d6c268d58f1a8dd193fa2c1b6",
-				"dweb:/ipfs/QmR6A643iBT2g7MWE8y8jPrtA2MNpxJHWHLDfsad4zvptV"
+				"bzz-raw://45bbaa42afbd922512fb673d072990c72710e387710ed2e089c0274d4408be73",
+				"dweb:/ipfs/QmSwNAwPmk38H1a2ELim86PZES57nHAdgxtQr14WUBBt8q"
 			]
 		}
 	},
